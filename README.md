@@ -159,7 +159,7 @@ From this dashboard, users can:
 ## 🚀 How to View This Dashboard
 
 ✅ **Or Download the Tableau Workbook**:  
-- [Download COVID-19 Dashboard.twbx](https://github.com/Mohamed-Aslam-29/Covid-19-Dashboard/raw/main/Covid-19%20Dashboard.twbx)
+- [Download COVID-19 Dashboard.twbx]Covid 19.twb
 
 ✅ **System Requirements:**  
 - Tableau Desktop (or Tableau Public) version 2020.2 or newer recommended.
